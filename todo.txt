@@ -1,0 +1,1 @@
+#deterctar se o jogo está aberto
